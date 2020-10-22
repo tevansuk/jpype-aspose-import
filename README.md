@@ -58,4 +58,6 @@ ImportError: Failed to import 'com.aspose'
 ## With JPype 0.7.5
 
 ```
+/home/tevans/.local/share/virtualenvs/jpype-aspose-import-2E_xYuW9/lib/python3.8/site-packages/asposecells/lib/aspose-cells-20.2.jar:/home/tevans/.local/share/virtualenvs/jpype-aspose-import-2E_xYuW9/lib/python3.8/site-packages/asposecells/lib/bcprov-jdk15on-160.jar:/home/tevans/.local/share/virtualenvs/jpype-aspose-import-2E_xYuW9/lib/python3.8/site-packages/asposecells/lib/JavaClassBridge.jar
+Imports worked OK
 ```
